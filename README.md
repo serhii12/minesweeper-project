@@ -1,4 +1,4 @@
-# minesweeper-copy
+# minesweeper-terminal-copy
 
 The following is a quick overview of the game:
 
