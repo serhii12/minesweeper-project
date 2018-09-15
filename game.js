@@ -1,7 +1,8 @@
-import { Board } from './board';
+// import Board from './board';
+const Board = require('./board');
 class Game {
-  constructor(numberOfRows,numberOfColumns,numberOfBombs) {
-    this._board =  new Board(numberOfRows, numberOfColumns, numberOfBombs);
+  constructor(numberOfRows, numberOfColumns, numberOfBombs) {
+    this._board = new Board(numberOfRows, numberOfColumns, numberOfBombs);
   }
 
   playMove(rowIndex, columnIndex) {
