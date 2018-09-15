@@ -7,7 +7,8 @@ For example:
 3) Run `.load game.js` to load the contents of this file.
 4) Then create a Game instance and run commands like so:
 let game = new Game(3, 3, 3);
-5) Play the game :) 
+5) Play the game
+
 game.playMove(0, 1);
 game.playMove(1, 2);
 
