@@ -1,6 +1,8 @@
 # minesweeper-terminal-copy
 
-To play Minesweeper, we will create instances of MineSweeperGame in command line.
+Minesweeper project was build using Node.js
+
+To play Minesweeper, we will create instances of MineSweeperGame in command line. 
 For example:
 1) Open the folder
 2) In command line,run `node`
